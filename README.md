@@ -126,3 +126,9 @@ Content-Type: application/json
 - 当前项目仅发送文本或 markdown，不包含富媒体 `file_info` 链路
 - 是否可送达受平台规则影响：用户关闭主动消息、频控超限都会导致发送失败
 - 建议用异步接口发送，并通过 `GET /api/v1/messages/{request_id}` 跟踪状态
+
+<!-- CHECKIN_START -->
+连续签到：1 天  
+最近签到：2026-09-09  
+状态：持续中 🚀
+<!-- CHECKIN_END -->
