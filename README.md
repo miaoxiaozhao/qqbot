@@ -128,7 +128,7 @@ Content-Type: application/json
 - 建议用异步接口发送，并通过 `GET /api/v1/messages/{request_id}` 跟踪状态
 
 <!-- CHECKIN_START -->
-连续签到：37 天  
-最近签到：2026-10-17  
+连续签到：38 天  
+最近签到：2026-10-18  
 状态：持续中 🚀
 <!-- CHECKIN_END -->
